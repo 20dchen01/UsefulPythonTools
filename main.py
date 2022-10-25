@@ -8,8 +8,8 @@ import requests
 #use
 
 #python .\spotify_rec.py --artist "xxxx" --track "yyyy"
-CLIENT_ID = "8a848c86e3954fc09810ebc56eeeb246"
-CLIENT_SECRET = "dcb6ddef7bcd4afaa2244ef18b76ea51"
+CLIENT_ID = "x"
+CLIENT_SECRET = "x"
 REDIRECT_URI = "http://localhost:8888/callback"
 
 ROOT_PATH = os.path.dirname(os.path.realpath(__file__))
